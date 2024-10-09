@@ -22,6 +22,7 @@ git clone https://github.com/your-username/climate-change-education-app.git
 cd climate-change-education-app
 Install Dependencies: Make sure you have Flutter installed, then run:
 bash
+
 Copy code
 flutter pub get
 Run the App: Launch the app on your emulator or physical device:
